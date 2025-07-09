@@ -67,8 +67,3 @@ The project is organized into the following key sections:
 - Address class imbalance using techniques like SMOTE or class weighting
 - Deploy the model as a web application for real-time predictions
 
-## Contributors
-[Your Name/Team Name]
-
-## License
-[Specify license if applicable]
